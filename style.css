@@ -1,0 +1,108 @@
+.logo{
+    width: 12vw;
+    height: 5vw;
+}
+
+.right_size{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.muwe{
+    padding-top: 2%;
+    padding-left: 5%;
+    color: black;
+}
+
+.text_what{
+    font-size: 48px;
+    padding: 3vw;
+}
+
+.what_this{
+    padding: 3vw ;
+    background-color: rgba(211, 211, 211, 0.89);
+    border-radius: 3vw;
+
+
+}
+
+.section_1{
+    padding: 3vw;
+}
+
+.swiper{
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 2vh;
+    height: 60vh;
+    width: 60vw;
+    border-radius: 20px;
+    border: 2px solid rgb(95, 94, 94);
+}
+
+.imagines{
+    height: 55vh;
+    width: 14vw;
+}
+
+.slide{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about_herous{
+    padding: 2%;
+}
+
+.about_herous_right{
+    padding: 2%;
+    text-align: right;
+}
+
+.hutao{
+    height: 30vh;
+    width: 55vw;
+}
+
+.about_hutao{
+    padding: 3%;
+    text-align: center;
+}
+
+.img_region{
+    height: 25vh ;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+.region{
+
+    height: 52vh;
+    width: 21.5vw;
+    padding: 2%;
+    border: 2px solid rgb(95, 94, 94);
+    border-radius: 15px;
+}
+
+footer{
+    margin: 0;
+    margin-top: 20vh;
+    height: 20Vh;
+    background-color: lightgray;
+
+}
+
+.regions{
+    display: flex;
+    justify-content: space-around;
+}
+
+.center{
+    padding: 8vh;
+    text-align: center;
+    vertical-align: middle ;
+    color: rgb(78, 78, 78);
+}
